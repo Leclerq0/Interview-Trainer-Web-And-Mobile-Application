@@ -72,9 +72,9 @@ public struct WelcomeView: View {
                 }
 
                 VStack(spacing: 12) {
-                    featureRow(icon: "bolt.shield.fill", title: "Dinamik Sorular", desc: "Rol ve kıdem seviyenize göre anında üretilen mimari sorular.")
-                    featureRow(icon: "waveform", title: "Sesli & Yazılı Simülasyon", desc: "Doğal konuşma akışıyla sesli veya klavye ile cevaplama.")
-                    featureRow(icon: "chart.bar.doc.horizontal.fill", title: "Detaylı Karne Raporu", desc: "Puanlama, güçlü yönler ve çalışılması gereken konular.")
+                    featureRow(icon: "bolt.shield.fill", title: "Dinamik Sorular", desc: "Rol ve kıdem seviyenize göre üretilen sorular.")
+                    featureRow(icon: "waveform", title: "Sesli & Yazılı Simülasyon", desc: "Doğal konuşma akışıyla soruları sesli cevaplama.")
+                    featureRow(icon: "chart.bar.doc.horizontal.fill", title: "Detaylı Karne Raporu", desc: "Puanlama, iyi yönler ve çalışılacak konular.")
                 }
                 .padding(.horizontal, 20)
 
