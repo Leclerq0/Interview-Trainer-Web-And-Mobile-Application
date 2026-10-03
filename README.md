@@ -9,6 +9,8 @@ A full-stack artificial intelligence application designed to simulate real-world
   <img src="assets/IMG_7087.jpg" width="200">
 </p>
 
+**Live Demo:** [Try the Web App Here](https://interview-trainer-web-application.onrender.com)
+
 ##  Features
 * **Real-Time AI Coaching:** Dynamic, natural conversation flows powered by advanced LLMs.
 * **Native iOS Experience:** Smooth, responsive, and intuitive user interface built with Swift.
@@ -28,7 +30,6 @@ As a first-year computer engineering student, this represents my first large-sca
 * **AI Engine:** Gemini API
 * **Tools:** Xcode, Antigravity IDE
 
-**Live Demo:** [Try the Web App Here](https://interview-trainer-web-application.onrender.com)
 
 ##  How to Run Locally
 
