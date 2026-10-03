@@ -3,10 +3,10 @@
 A full-stack artificial intelligence application designed to simulate real-world technical job interviews and provide instant, actionable feedback. Built with a native iOS client (Swift) and a robust Python backend powered by the Gemini API.
 
 <p align="center">
-  <img src="assets/IMG_7081.png" width="200">
-  <img src="assets/IMG_7082.png" width="200">
-  <img src="assets/IMG_7083.png" width="200">
-  <img src="assets/IMG_7087.png" width="200">
+  <img src="assets/IMG_7081.jpg" width="200">
+  <img src="assets/IMG_7082.jpg" width="200">
+  <img src="assets/IMG_7083.jpg" width="200">
+  <img src="assets/IMG_7087.jpg" width="200">
 </p>
 
 ##  Features
